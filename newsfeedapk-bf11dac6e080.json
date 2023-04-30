@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newsfeedapk",
+  "private_key_id": "bf11dac6e08098414fb7805f65a41e3b5ecd05f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFpaW3rXNtbxv6\niceuDV49Kmqm7yuaDWdly9JH5u6iWl4rg16VfmdZLpLtOQxbzSdpBjo81S/EtQv5\nsJr/1CIoeuxiy08N0K1IjvdWJwcLPomf38X2N4feun87i5B/4URJ1YNqDlO2S2Dw\nzS6w2kzHDMdscj7VArcAjD46PFKoJd6u1wYvmPW1YgVe3yBP6PL4wiohLBIDKEtI\nV9ljZa81/uGZPtX06WDt+6a0JPcWjTrHMkbpE7UtBS+5id8YE25pgNTlzdTYp6Zv\nIhKvCHskKy28veZMd9fACaQ97AvVueBFU+9+7FFEtJ4GtpQhd/qIzzZ7e7kmyGXx\nA2Y6YjkzAgMBAAECggEADhwmmdehfJfeC3jNRI5ibUNwnGeerpTJDj9gImSeIgEJ\nkARaOu9B5DVVpTyEDARit+C176SDOyvMUGWx6xRIi/3v5O2sFcm7/94U/OrfBIfR\nE2ofm9WYYZI22xgPl3w21Sk6WdaZVf5I9r1EhA5RmjQ+AxlKMF136xYYAIL7SP2q\n4W7jwddWWS79WLhKIL8PBid6neeley/gNwah/OCzt3IhTfrfbcfKc15rDiCcEKAy\n3Bi7/KFsUx2h6MF7GMQwN1EMlx9XEfkNHsF1X1QkKF08QkTdBCKtaRd4r/NkJIP/\nLXe5cYJvm2Ulp1P3Ug5JpyquuSj4BqK4YmAg8QvJQQKBgQD1c+dgRqN8fEkrIQlV\n1v49A5inytt6e4AG8On0/dOT/15lxvsajFgtGdP4+rX4HAf0ydd/XyDBuV1QSUYK\nzGMa/oK4I10gfaAafn3JRwExVQBk6ReMbb5ioB+LttvveEgelCmzGhoAo51zxq7j\nVeo5XR+P3UDIAssIQryRrq6NSwKBgQDOI9u9NzdqKm7NICAyAxok7eAlm7ejaZky\nrGmIR/MasdH6rzyBX5A9y++8NmydS/9IYYtc8xLHuNstXrdTVW5SDxKeLDqrrM5A\n4S4Xm5kUvjz9PFom5IEyh3Zv9aintvPs8oUf8lyBC1hUZGtGiNuKcpSN0mj8GwMJ\ngN7VW12auQKBgQCP4aZjIGVbZru5ZX9Ea2fTOlV1Hovzy4tsBjMO4u/w1IRwYuj1\nUgmqPnasf8LFsyDS1LLXPltEVDWoB5vgXplFzKWx7UD898cvYLC5mT7QvUQi4yRj\ntD0jMTvsuX9JbBfSnQWosIdHkqGMqY4BQ26uu7Dxsz/zPvfnWr+RInW96wKBgEFM\napcNnqgquN6RhqFRCj8YeyBuq0VAdh7vLp7U69VQ7ssSJ4Bz3SU2LMLaGp3ZLQyo\nmZTgCtrpW8SLdFcZgNDNpYAlUpB/NPaoXglsaJmBiaBONeCMEcEH2CSvFLXL5ojw\naesswtC930Ucaj71q1W35gbm2ArEI7om8G91eblBAoGARHrV6ATCzqUAytKN2jli\nSpoKWR7xctCew9zmsfin5pkorsJB3PRb3o8jv8adCNw6ky3b1rA7+ay1m1ikPWnl\nwypvkenyzFnmoxJ+elmknOvFfByhObXnfCSYICWKbnoVc030AXCA5dT/sN/0JZG2\npeFEjeH2jHqUNwN4a5ZDyVY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "droid-dynasty-772@newsfeedapk.iam.gserviceaccount.com",
+  "client_id": "118308828999322895058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/droid-dynasty-772%40newsfeedapk.iam.gserviceaccount.com"
+}
